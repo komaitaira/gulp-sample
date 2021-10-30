@@ -29,3 +29,6 @@ src/scss/以下の.scssファイルのコンパイル、minify実行。
 ```
 yarn run sass
 ```
+
+参考：
+https://qiita.com/7110/items/a9ea618f9b9c2687c949
